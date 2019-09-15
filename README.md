@@ -4,13 +4,13 @@ This project is basically a part of the Musculoskeletal Radiographs dataset comp
 
 So the main task at hand for this project is to predict if a patient's hand radiograph is **normal** or **abnormal**.
 
-## Getting Started
+## Short Description
 
 The main file that runs the code and would have to be executed to run the project is *main.py*, given if the directory structure is not changed the code should run successfully. The only constraint to the complete project and the one here on Github is that this project only has 10% of the dataset that I originally used to obtain my results of training and testing.
 
 The complete dataset although can be downloaded from: [MURA](https://stanfordmlgroup.github.io/competitions/mura/)
 
-### Prerequisites
+### Libraries Used
 
 The code is written in Python, hence several of the libraries will be required in order to execute the code. Some of them are as follows:
 
