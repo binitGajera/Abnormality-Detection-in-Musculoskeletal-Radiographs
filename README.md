@@ -19,7 +19,6 @@ The code is written in Python, hence several of the libraries will be required i
 - torchvision
 - tqdm
 - pandas
-- Binit
 - sys
 ```
 
